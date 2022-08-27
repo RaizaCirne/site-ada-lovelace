@@ -30,6 +30,11 @@ nav a {
     text-align: center;
 }
 
+section {
+    width: 60vw;
+    margin: 0 auto;
+}
+
 h2 {
     color:#2a0074;
     font-size: 40px;
@@ -38,4 +43,8 @@ h2 {
 p {
     line-height: 1.5;
     font-size: 20px;
+}
+
+img {
+    width: 100%;
 }
