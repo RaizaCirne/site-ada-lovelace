@@ -1,19 +1,41 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 body {
     background-color: #8a71c9;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
+    color:#ffffff;
     margin: 0px 0px 30px 0px; 
 }
 
 h1 {
-    color: #fff;
     font-weight: 300px;
-    font-size: 60px;
+    font-size: 59px;
+    font-weight: normal;
+}
+
+nav ul {
+    background-color:#FF6CB5;
+    padding-left: 0;
+    margin: 0 300px 0;
+    line-height: 1.2;
 }
 
 nav li {
     display: inline-block;   
+    padding: 10px 80px 10px;
 }
 
+nav a {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color:#2a0074;
+    font-size: 40px;
+}
+
+p {
+    line-height: 1.5;
+    font-size: 20px;
+}
