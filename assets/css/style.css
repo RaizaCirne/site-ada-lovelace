@@ -68,3 +68,10 @@ h3 {
     font-size: 22px;
     font-style: italic;
 }
+
+a {
+    color: #99ffff;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 2;
+}
