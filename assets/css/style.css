@@ -20,12 +20,12 @@ h1 {
     line-height: 1.2;
 }
 
-nav li {
+.principal li {
     display: inline-block;   
     padding: 10px 80px 10px;
 }
 
-nav a {
+.principal a {
     color: white;
     text-align: center;
 }
@@ -47,4 +47,19 @@ p {
 
 img {
     width: 100%;
+}
+
+#infancia {
+    color: #04ff9f;
+    font-style: italic;
+}
+
+#juventude {
+    color: #FF9E9E;
+    font-style: italic;
+}
+
+#vida-adulta {
+    color: #ffe36d;
+    font-style: italic;
 }
