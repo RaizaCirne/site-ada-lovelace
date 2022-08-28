@@ -13,10 +13,10 @@ h1 {
     font-weight: normal;
 }
 
-nav ul {
+.principal {
     background-color:#FF6CB5;
     padding-left: 0;
-    margin: 0 300px 0;
+    margin: 0 310px 0 300px;
     line-height: 1.2;
 }
 
