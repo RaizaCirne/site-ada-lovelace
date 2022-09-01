@@ -160,7 +160,9 @@ git clone https://github.com/RaizaCirne/site-ada-lovelace.git
 
 
 Baixar arquivo zip 
+
 Extrir arquivos
+
 Abrir pasta no editor de código.
 
 <br />
