@@ -125,7 +125,7 @@ Realização de mais projetos nas mesmas linguagens utilizadas neste site para c
 
 <br />
 
-- Clique no link para acessar a página: 
+- Clique no link para acessar a página: https://clinquant-taffy-d227ca.netlify.app
 
 <br />
 
@@ -181,7 +181,7 @@ Aos mentores Pedro Marins e Henrique de Andrade, aos monitores, e claro, todos d
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz]()
+- Personal Page - [Raíza Cirne Braz](https://clinquant-taffy-d227ca.netlify.app)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
