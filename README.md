@@ -7,7 +7,7 @@
 - [Meu processo](#id03)
   - [Construção do site](#id03.1)
   - [Aprendizado](#id03.2)
-  - [Desenvolvimento contínuo](#id03.3)
+  - [Prosseguimento](#id03.3)
 - [Screenshots](#id04)
 - [Links](#id05)
 - [Tecnologias utilizadas](#id06)
