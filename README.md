@@ -103,7 +103,7 @@ O desenho está em formato PNG estático. Usei meu julgamento para estilos como 
 
 - Centralização de elementos na página  
 - Inserção de identificadores para navegação no site
-- Crição de formulário
+- Criação de formulário
 
 ## :trophy: Prosseguimento <a name="id03.3"></a>
 
